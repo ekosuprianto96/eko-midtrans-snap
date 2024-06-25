@@ -15,7 +15,7 @@ Clone repository ini atau download file distribusi dari folder `dist`.
 </head>
 <body>
   <button id="pay-button">Pay Now</button>
-  <script src="path/to/dist/midtrans-snap.js"></script>
+  <script src="path/to/dist/eko-midtrans-snap.js"></script>
   <script>
     const midtrans = new EkoMidtransSnap({
         client_key: 'YOUR_CLIENT_KEY'
