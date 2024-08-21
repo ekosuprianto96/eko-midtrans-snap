@@ -2,7 +2,7 @@
   "name": "ekolibrarymidtrans",
   "version": "1.2.0",
   "description": "Library untuk integrasi midtrans snap.js",
-  "main": "index.js",
+  "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack"
@@ -14,6 +14,10 @@
     "midtrans"
   ],
   "author": "Eko Suprianto",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ekosuprianto96/eko-midtrans-snap"
+  },
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.24.7",
